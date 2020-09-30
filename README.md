@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🌱 I’m currently learning ...
 > iOS, Swift, Django, Python
 
+
 - 📚 What I can do
 > iOS, Swift, Django, Python
+
 
 - 🧐 Interested in
 > Mobile(iOS), Rest API Server
