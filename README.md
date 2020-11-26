@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning
-> iOS, Swift, Django, Python
+> C, Shell
 
 
 - 📚 What I can do
