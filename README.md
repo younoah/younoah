@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 
 - 🧑‍💻 resume
 > 멋쟁이 사자처럼 - 개발에 첫 발걸음, 파이썬, django로 웹 개발 공부, 운영진 참여 (파이썬, django, html, css, js)
-
+>
 > iOS 멘토링 - 라인 현직자와 함께한 iOS 멘토리 교육.  iOS 앱 개발 공부 (iOS, swift)
-
+>
 > 멋쟁이사자처럼 전국 해커톤1 - 티키타카 : 해커톤 현장에서 간식 판매 웹 사이트 개발, 수익창출 및 기부 (파이썬, djagno)
-
+>
 > 멋쟁이사자처럼 전국 해커톤2 - 마법의소라고동 : 누구나 쇼호스트가 되어 참여할수 있는 모바일 V커머스 iOS 앱개발 (iOS, swift)
-
+>
 > 프로젝트 split - 스터디플랜 O2O 서비스,  iOS 앱 개발, 플랜(목록확인, 신청), 캘린더(플랜관리), QR코드로 출석 인증 구현 (iOS, swift)
-
+>
 > 42Seoul Pscine - 쉘, C언어 공부를 통해  개발에 더욱 깊고 다가가기 (shell, C언어)
 
 
