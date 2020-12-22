@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 - 🧐 Interested in
-> Mobile(iOS), Rest API Server, Web, Web server
+> Web Front-end, API Server
 
 
 - 🧑‍💻 resume
