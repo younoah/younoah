@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 >
 > 프로젝트 split - 스터디플랜 O2O 서비스,  iOS 앱 개발, 플랜(목록확인, 신청), 캘린더(플랜관리), QR코드로 출석 인증 구현 (iOS, swift)
 >
-> 42Seoul - 쉘, C언어 공부를 통해  개발에 더욱 깊고 다가가기 (shell, C언어)
+> 42Seoul - 쉘, C언어 공부를 통해  개발에 더욱 깊 다가가기 (shell, C언어)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounoah&count_bg=%236EA9F1&title_bg=%23767676&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
