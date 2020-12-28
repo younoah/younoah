@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning
-> C, Shell, Web
+> C, Shell, Web(html, css, js)
 
 
 - 📚 What I can do
