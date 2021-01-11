@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👉🏻  [README](https://www.notion.so/younoah/Hello-Yoonho-18ef39d76231440ca80d16ff1cf37439) 👈🏻
+👉🏻  [README](http://m.site.naver.com/0JH53) 👈🏻
 
 <!--
 **younoah/younoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
