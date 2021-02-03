@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👉🏻  [README](http://m.site.naver.com/0JH53) 👈🏻
+👉🏻  [README](https://bit.ly/2WJJ3he) 👈🏻
 
 <!--
 **younoah/younoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
