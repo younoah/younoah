@@ -34,8 +34,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/younoah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=younoah&show_icons=true&theme=blueberry" />
-</a>
-
-<a href="https://github.com/younoah">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younoah&layout=compact" />
 </a>
