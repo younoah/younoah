@@ -2,7 +2,7 @@
 
 👉🏻  [README](https://bit.ly/2WJJ3he) 👈🏻
 
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](https://velog.io/@younoah)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@younoah)](https://velog.io/@younoah)
 
 
 
