@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=hello%20world&fontSize=50&animation=blinking" />
 
 👉🏻  [README](https://bit.ly/2WJJ3he) 👈🏻
