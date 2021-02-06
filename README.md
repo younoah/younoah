@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=150&section=header&text=helloworld%20render&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=hello%20world&fontSize=50&animation=twinkling" />
 
 👉🏻  [README](https://bit.ly/2WJJ3he) 👈🏻
 
