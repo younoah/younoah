@@ -2,6 +2,8 @@
 
 👉🏻  [README](https://bit.ly/2WJJ3he) 👈🏻
 
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](https://velog.io/@younoah)
+
 <!--
 **younoah/younoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
