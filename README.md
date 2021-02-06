@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning
 > C, Shell, Web(html, css, js)
-> <img src="https://img.shields.io/badge/{icons}?style={style}&logo={logo_name}&logoColor=white"/></a>&nbsp 
 
 
 - 📚 What I can do
