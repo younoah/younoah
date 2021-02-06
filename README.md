@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=hello%20world&fontSize=50&animation=blinking" />
 
-<center>👉🏻  [README](https://bit.ly/2WJJ3he) 👈🏻</center>
+👉🏻  [README](https://bit.ly/2WJJ3he) 👈🏻
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@younoah)](https://velog.io/@younoah)
 
