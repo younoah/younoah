@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younoah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/younoah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=younoah)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=younoah" />
 </a>
 <a href="https://github.com/younoah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younoah&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younoah&layout=compact" />
 </a>
