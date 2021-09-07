@@ -15,7 +15,7 @@
 </p>
 <br />
 
-<p align="center"><b>✏️ Comming Soon</b></p>
+<p align="center"><b>✏️ Coming soon</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
